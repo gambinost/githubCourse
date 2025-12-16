@@ -1,2 +1,2 @@
-\## Hello bro. Let's git this hub, lolz. 
+## Hello bro. Let's git this hub, lolz. 
 
